@@ -1,0 +1,66 @@
+IT 429: Introduction to Cybersecurity 
+Instructor: Collin MacDonald 
+This course is a 3 credit elective for the bachelor of Information Technology Program. It is offered in the networking specialty. 
+
+Class Times: 
+This course will be conducted asynchronously online (Canvas). 
+
+Instructor Information: 
+Name: Collin MacDonald Email: cemhf2@umsystem.edu 
+Phone: 816-929-9092 Class Website: Canvas Office Hours: Monday and Wednesday 7PM-8PM (flexible) 
+Catalog Description: This course introduces students to cybersecurity and its domains. The course will cover topics such as cryptography, software development security, access control, security architecture, security operations, disaster recovery, and physical and environmental security. 
+Course Goals and Learning Outcomes: This course provides the foundations for the key issues associated with protecting information assets. The course will provide students with an overview of the field of information security and assurance. The course topics include security metrics, risk management, standards and regulations, physical security, and business continuity. The course will explain how an enterprise can achieve its security goals. Further, the course will teach students how adversaries will invariably find and exploit weak links; and how to possibly mitigate that risk. In this course, the following topics will be covered in depth: 
+Topics  Resources  
+Cyber Threats Motivations and Techniques  B1, Chapter 1  
+Adversaries, Targets, and theAdversary Model (resources, capabilities, intent, motivation, risk aversion, access)  B1, Chapter 2  
+Types ofAttacks (Password guessing / cracking, Backdoors / trojans / viruses / wireless attacks, Sniffing / spoofing / session hijacking, Denial of service / distributed DOS / BOTs, MAC spoofing / web app attacks / 0-day exploits) and Countermeasures  B1, Part 3, Chapter 13 ~ 18  
+Security and Privacy Policy: HIPAA/ FERPA, Computer Security Act, Privacy (COPPA  B1, Chapter 5 (107)  
+Applications of Cryptography  B1, Part 5, Chapter 26  
+Blockchain  
+
+
+Students will be able to: 
+OS1.1, Identify the levels of protection and response to security incidents; Describe potential system attacks and the actors that might perform them. OS1.2, Design an information security system with intrusion detection in mind. OS1.3, Identify security activities, methods, and procedures; Describe cyber defense tools, methods, and components. OS1.4, Protect information assets. OS1.5, Examine pre and post-incident procedures; Describe appropriate measures to be taken should a system compromise occur. OS1.6, Be familiar with informational security planning and staffing functions. OS1.7,Apply cyber defense methods to prepare a system to repel attacks. 
+
+Textbooks: 
+. 
+B1: (Required) Rhodes-Ousley, Mark. Information Security: The Complete Reference, Second Edition, McGraw-Hill, 2013. 
+
+. 
+B2: (Optional) Bel G. Raggad, Information Security Management: Concepts and Practice, 2010 by CRC Press. 
+
+. 
+B3: (Optional) Whitman, Michael E. and Herbert J. Mattord. Roadmap to Information Security for IT and Infosec Managers. Boston, MA: Course Technology, 2011. 
+
+. 
+B4: (Optional) Gibson, Darryil, CompTIASecurity+ Get Certified GetAhead SY0-501 Study Guide (or newer) 
+
+
+Assignments: Assignments help you understand the material. It is imperative that you work on them. Working on assignments together as a group is encouraged, but each student is required to submit their assignment individually. Always feel free to contact the instructor regarding assignments. 
+Late Submissions:Assignments will be due on Canvas by the announced deadline. Unless otherwise specified all assignments are due by the end of the day (11:59 PM) on the due date. Late assignments may be accepted (on a case by case basis), but late penalties will apply. An assignment that is 1 day late will lose 10%. This continues for school days, so that an assignment that is 1 week late will lose 50% of the grade.Assignments will not normally be accepted more than 1 week late. If you know ahead of time of a problem in meeting due dates, let me know as soon as possible and we will work something out. (Telling me a week after the due date doesn't look too good.) I will give makeup exams ONLY if we have discussed the issue ahead of time and made a specific arrangement. In general, I will allow makeup exams only when there are extenuating circumstances (beyond your control). 
+
+Evaluation /Assessment Criteria and Grading: 
+Assignments & Quizzes: 20% 
+Midterm 1: 25% 
+Midterm 2: 25% 
+Final: 30% 
+
+Electronic Distribution of Files and Information: 
+Course materials will be uploaded to Canvas during the semester: documents, lectures, examples, homeworks, etc. 
+Occasionally, I will use the announcements feature of Canvas to post information. In addition, official communication may also be sent to your UMKC email account. Please be sure to check this frequently 
+Students are responsible to regularly check the announcement, documents and other uploaded materials and their UMKC email accounts. Failure to do so cannot be accepted as an excuse. 
+
+Semester Schedule of Topics (subject to modification): 
+Detailed Schedule will be available in a couple of weeks 
+Policy onAccess for Students with Disabilities: Students who have documented requirements for educational accommodations should identify themselves and meet with me after class or during office hours so that we can discuss how we may be able to maximize your potential for success in the class. If you suspect that you need educational accommodations, but you have not yet registered with the Office of Services for Students with Disabilities, please talk to me about your situation as soon as possible. 
+Policy on Student Civility: My commitment is to create a climate for learning characterized by respect for each other and for the contributions each person makes to class. I ask that you make a similar commitment. 
+
+Academic Integrity: 
+UMKC has been working on clarifying existing UM system wide guidelines concerning academic integrity. Arecently distributed document "Guidelines Concerning Student Misconduct" has been put together to provide some practical information concerning such issues. Essentially, the guidelines say that, if a faculty member believes that an instance of academic dishonesty has occurred (cheating on exams, copying homework, etc.) then the faculty member is required to turn in that incident, along with all associated student names to the ChiefAcademic officer (or delegate). That officer will determine, based on the facts of the case, what appropriate disposition should be. This could be anything from no action to dismissal from the university. 
+The faculty is required to assign credit for the work based on the faculty's best estimate of the student's contribution to the work. If copying is involved, the general assumption will be that no contribution was made -and thus a 0 will be assigned.Atypical penalty might include suspension from the university for 1 semester. This document represents University policy. It provides guidance concerning academic dishonesty issues. The focus is to ensure that the same criteria are applied consistently to all UM students. Thus, in the interests of ensuring fair treatment of all students, I will turn in all incidents. The University (and I) take academic integrity very seriously. The grade that you receive in a course represents the University's (and the faculty's) assessment of your performance in a course. Cheating distorts the value of that grade, and thus the value of our certification. It is a disservice to the student body to allow that to happen. 
+Prepared by: Collin MacDonald 
+
+Prepared on: 1/17/2022 
+*NOTE: This syllabus is subject to change and most likely will change throughout the semester. Any such changes will be announced in the course lectures. 
+
+

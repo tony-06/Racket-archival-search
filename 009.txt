@@ -1,0 +1,30 @@
+Al is An Ideology, Not A Technology I WIRED	
+
+https://www.wired.com/story/opinion-ai-is-an-ideology-not-a-technology/
+
+
+the world put together. With the pace of processor improvements slowing as 
+Moore's law ends, the prospects of this changing dramatically anytime soon are 
+dim.
+
+
+Nor is such a human-centric approach to technology simply a theoretical 
+possibility. Tens of millions of people every day use video conferencing to deliver 
+personal services, such as language and skill instruction, online. Online virtual 
+collaboration spaces like GitHub are central to value creation in our era. Virtual 
+and augmented reality hold out the prospect of dramatically increasing what is 
+possible, allowing more types of collaborative work to be performed at great 
+distances. Productivity software from Slack to Wikipedia to Linkedln to Microsoft 
+product suites make previously unimaginable real-time collaboration 
+omnipresent.
+
+Indeed, recent research has shown that without the human-created Wikipedia, 
+the value of search engines would plummet (since that is where the top results of 
+substantial searches are often found), even though search services are touted as 
+frontline examples of the value of AI. (And yet the Wikipedia is a thread-bare 
+nonprofit, while search engines are some of the most highly valued assets in our 
+civilization.) Collaboration technologies are helping us work from home through 
+the Covid-19 epidemic; it has become a matter of survival, and the future 
+promises ways where long-distance collaboration may become ever more vivid 
+and satisfying.
+

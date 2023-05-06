@@ -1,0 +1,576 @@
+SOPHOCLES (496?-406 B.C.) 
+Antigone 
+An English Version by Dudley Fitts and Robert Fitzgerald 
+Person Represented 
+ANTIGONE 
+ISMENE 
+EURYDICE 
+CREON 
+HAIMON 
+TEIRESIAS 
+A SENTRY 
+A MESSENGER 
+CHORUS 
+SCENE: Before the Palace of Creon, King of Thebes. A central double door, and two lateral doors. A platform extends the length of the façade, and from this platform three steps lead down into the "orchestra", or chorus-ground. TIME: Dawn of the day after the repulse of the Argive army from the assault on Thebes. 
+PROLOGUE 
+[ANTIGONE and ISMENE enter from the central door of the Palace.] 
+ANTIGONE: 
+Ismene, dear sister, 
+You would think that we had already suffered enough 
+For the curse on Oedipus:1 
+I cannot imagine any grief 
+That you and I have not gone through. And now -- 5 
+Have they told you of the new decree of our King Creon? 
+ISMENE: 
+I have heard nothing: I know 
+That two sisters lost two brothers, a double death 
+In a single hour; and I know that the Argive army 
+Fled in the night; but beyond this, nothing. 
+ANTIGONE: 
+I thought so. And that is why I wanted you 
+To come out here with me. There is something we must do. 
+1 Oedipus, once King of Thebes, was the father of Antigone and Ismene, and of their brothers Polyneices and Eteocles. Oedipus unwittingly killed his father, Laios, and married his own mother, Iocaste. When he learned what he had done, he blinded himself and left Thebes. Eteocles and Polyneices quarreled, Polyneices was driven out but returned to assault Thebes. In the battle each brother killed the other; Creon became king and ordered that Polyneices be left to rot unburied on the battlefield as a traitor. [Editors' note] 
+ISMENE: Why do you speak so strangely?  
+ANTIGONE: Listen, Ismenê: Creon buried our brother Eteoclês With military honors, gave him a soldier's funeral, And it was right that he should; but Polyneicês, They fought as bravely and died as miserably,-- They say that Creon has sworn No one shall burry him, no one mourn for him, But this body must lie in the fields, a sweet treasure For carrion birds to find as they search for food. That is what they say, and our good Creon is coming here To announce it publicly; and the penalty -- Stoning to death I the public squarel There it is, And now you can prove what you are: A true sister, or a traitor to your family.  15 20 25  
+ISMENE: Antigone, you are mad! What could I possibly do?  
+ANTIGONE: You must decide whether you will help me or not.  
+ISMENE: I do not understand you. Help you in what?  30  
+ANTIGONE: Ismene, I am going to bury him. Will you come?  
+ISMENE: Bury him! You have just said the new law forbids it.  
+ANTIGONE: He is my brother. And he is your brother, too.  
+ISMENE: But think of the danger! Think what Creon will do!  
+ANTIGONE: Creon is not enough to stand in my way.  15  
+ISMENE: Ah sister! Oedipus died, everyone hating him  
+
+For what his own search brought to light, his eyes Ripped out by his own hand; and Iocaste died, His mother and wife at once: she twisted the cords 40 That strangled her life; and our two brothers died, Each killed by the other's sword. And we are left: But oh, Antigone, Think how much more terrible than these Our own death would be if we should go against Creon 45 And do what he has forbidden! We are only women, We cannot fight with men, Antigone! The law is strong, we must give in to the law In this thing, and in worse. I beg the Dead To forgive me, but I am helpless: I must yield 50 To those in authority. And I think it is dangerous business To be always meddling. 
+ANTIGONE: 
+If that is what you think, I should not want you, even if you asked to come. You have made your choice, you can be what you want to be. But I will bury him; and if I must die, 55 I say that this crime is holy: I shall lie down With him in death, and I shall be as dear To him as he to me. 
+It is the dead Not the living, who make the longest demands: We die for ever… 
+You may do as you like Since apparently the laws of the god mean nothing to you. 
+ISMENE: They mean a great deal to me, but I have no strength To break laws that were made for the public good. 
+ANTIGONE: That must be your excuse, I suppose. But as for me, I will bury the brother I love. 
+ISMENE: Antigone, I am so afraid for you! 
+ANTIGONE: You need not be: You have yourself to consider, after all. 
+ISMENE: But no one must hear of this, you must tell no one! I will keep it a secret, I promise!  
+ANTIGONE: Oh tell it! Tell everyone Think how they'll hate you when it all comes out If they learn that you knew about it all the time!  70  
+ISMENE: So fiery! You should be cold with fear.  
+ANTIGONE: Perhaps. But I am doing only what I must.  
+ISMENE: But can you do it? I say that you cannot.  
+ANTIGONE Very well: when my strength gives out, I shall do no more.  75  
+ISMENE: Impossible things should not be tried at all.  
+ANTIGONE: Go away, Ismene: I shall be hating you soon, and the dead will too, For your words are hateful. Leave me my foolish plan: I am not afraid of the danger; if it means death, It will not be the worst of deaths --death without honor.  80  
+ISMENE: Go then, if you feel that you must. You are unwise, But a loyal friend indeed to those who love you. [Exit into the Palace. ANTIGONE goes off, L. Enter the CHORUS.]  
+PARODOS CHORUS: Now the long blade of the sun, lying [Strophe 1] Level east to west, touches with glory Thebes of the Seven Gates. Open, unlidded Eye of golden day! O marching light Across the eddy and rush of Dirce's stream, 2 Striking the white shields of the enemy Thrown headlong backward from the blaze of morning!  85 90  
+2 Dirce: a stream west of Thebes. [Editor's note]  
+
+CHORAGOS: 3 Polyneices their commander Roused them with windy phrases, He the wild eagle screaming Insults above our land, His wings their shields of snow, His crest their marshaled helms. 
+CHORUS: [Antistrophe 1] Against our seven gates in a yawning ring The famished spears came onward in the night; But before his jaws were sated with our blood, Or pine fire took the garland of our towers, He was thrown back; and as he turned, great Thebes-- No tender victim for his noisy power-- Rose like a dragon behind him, shouting war. 
+CHORAGOS: For God hates utterly The bray of bragging tongues; And when he beheld their smiling, Their swagger of golden helms, The frown of his thunder blasted Their first man from our walls 
+CHORUS: [Strophe 2] We heard his shout of triumph high in the air Turn to a scream; far out in a flaming are He fell with his windy torch, and the earth struck him. And others storming in fury no less than his Found shock of death in the dusty joy of battle 
+CHORAGOS: Seven captains at seven gates Yielded their clanging arms to the god That bends the battle-line and breaks it. These two only, brothers in blood, Face to face in matchless rage, Mirroring each the other's death, Clashed in long combat. 
+CHORUS: [Antistrophe 2] But now in the beautiful morning of victory Let Thebes of the many chariots sing for joy! With hearts for dancing we'll take leave of war: Our temples shall be sweet with hymns of praise, 
+3 Leader of the Chorus. [Editors'  note] 
+And the long night shall echo with our chorus. 
+SCENE I 
+CHORAGUS: But now at last our new King is coming: Creon of Thebes, Menoikeus' son. In this auspicious dawn of his reign 130 What are the new complexities That shifting Fate has woven for him? What is his counsel? Why has he summoned The old men to hear him? [Enter CREON from the Palace, C. He addresses the CHORUS from the top step.] 
+CREON: 
+Gentlemen: I have the honor to inform you that our Ship of 135 State, which recent storms have threatened to destroy, has come safely to harbor at last, guided by the merciful wisdom of Heaven. I have summoned you here this morning because I know that I can depend upon you: your devotion to King Laios was absolute; you never hesitated in your duty to our late ruler Oedipus; and when 140 Oedipus died, your loyalty was transferred to his children. Unfortunately, as you know, his two sons, the princes Eteocles and Polyneices, have killed each other in battle, and I, as the next in blood, have succeeded to the full power of the throne. 145 
+I am aware, of course, that no Ruler can expect complete loyalty from his subjects until he has been tested in office. Nevertheless, I say to you at the very outset that I have nothing but 
+150 
+contempt for the kind of Governor who is afraid, for whatever reason, to follow the course that he knows is best for the State; and as for the man who sets private friendship above the public welfare, --I have no use for him, either. I call God to witness that if I saw my country headed for ruin, I should not be afraid to speak out plainly; and I need 155 hardly remind you that I would never have any dealings with an enemy of the people. No one values friendship more highly than I; but we must remember that friends made at the risk of wrecking our Ship are not real friends at all. 160 
+These are my principles, at any rate, and that is why I have made the following decision concerning the sons of Oedipus: Eteocles, who died as a man should die, fighting for his country, is to be buried with full military honors, with all the ceremony that is usual when the greatest heroes die; but his brother Polyneices, who broke 165 his exile to come back with fire and sword against his native city and the shrines of his fathers' gods, whose one idea was to spill the blood of his blood and sell his own people into slavery-- Polyneices, I say, is to have no burial: no man is to touch him or say the least prayer for 170 
+him; he shall lie on the plain, unburied; and the birds and the scavenging dogs can do with him whatever they like. 
+This is my command, and you can see the wisdom behind it. As long as I am King, no traitor is going to be honored with the loyal 175 man. But whoever shows by word and deed that he is on the side of the State,--he shall have my respect while he is living and my reverence when he is dead. 
+CHORAGOS: If that is your will, Creon son of Menoikeus, You have the right to enforce it: we are yours. 180 
+CREON: That is my will. Take care that you do your part. 
+CHORAGOS: We are old men: let the younger ones carry it out. 
+CREON: I do not mean that: the sentries have been appointed. 
+CHORAGOS: Then what is t that you would have us do? 
+CREON: You will give no support to whoever breaks this law. 185 
+CHORAGOS: Only a crazy man is in love with death! 
+CREON: And death it is; yet money talks, and the wisest Have sometimes been known to count a few coins too many. 
+[Enter SENTRY from L.] 
+SENTRY: I'll not say that I'm out of breath from running, King, because every time I stopped to think about what I have to tell you, I felt like going 190 back. And all the time a voice kept saying, "You fool, don't you know you're walking straight into trouble?"; and then another voice: "Yes, but if you let somebody else get the news to Creon first, it will be even worse than that for you!" But good sense won out, at least I 195 hope it was good sense, and here I am with a story that makes no sense at all; but I'll tell it anyhow, because, as they say, what's going to happen's going to happen, and-- CREON: Come to the point. What have you to say? 
+SENTRY: I did not it. I did not see who did it. You must not punish me for what someone else has done. 
+CREON: A comprehensive defense! More effective, perhaps,  If I knew its purpose. Come: what is it? 
+SENTRY: A dreadful thing… I don't know how to put it-- 
+CREON: Out with it! 
+SENTRY: Well, then; The dead man--- Polyneices-- [Pause. The SENTRY is overcome, fumbles for words. CREON 
+waits impassively.]  
+out there--  
+someone, --  205  
+new dust on the slimy flesh!  
+[Pause. No sign from CREON.]  
+
+Someone has given it burial that way, and Gone … [Long pause. CREON finally speaks with deadly control.] 
+CREON: And the man who dared do this? 
+SENTRY: I swear I  210 Do not know! You must believe me! 
+Listen: The ground was dry, not a sign of digging, no, Not a wheel track in the dust, no trace of anyone. It was when they relieved us this morning: and one of them, The corporal, pointed to it.
+ There it was, 
+215 The strangest-- 
+Look: The body, just mounded over with light dust: you see? Not buried really, but as if they'd covered it 
+Just enough for the ghost's peace. And no sign Of dogs or any wild animal that had been there. 
+And then what a scene there was! Every man of us Accusing the other: we all proved the other man did it, We all had proof that we could not have done it. We were ready to take hot iron in our hands, Walk through fire, swear by all the gods, 
+It was not I! I do not know who it was, but it was not I! [CREON's rage has been mounting steadily, but the SENTRY is too intent upon his story to notice it.] And then, when this came to nothing, someone said A thing that silenced us and made us stare Down at the ground: you had to be told the news, And one of us had to do it! We threw the dice, And the bad luck fell to me. So here I am, No happier to be here than you are to have me: Nobody likes the man who brings bad news. 
+CHORAGOS: I have been wondering, King: can it be that the gods have done this? 
+CREON: [Furiously.] Stop! Must you doddering wrecks Go out of your heads entirely? "The gods!" Intolerable! The gods favor this corpse? Why? How had he served them? Tried to loot their temples, burn their images, Yes, and the whole State, and its laws with it! Is it your senile opinion that the gods love to honor bad men? A pious thought! -- 
+No, from the every beginning There have been those who have whispered together, Stiff-necked anarchists, putting their heads together, Scheming against me in alleys. These are the men, And they have bribed my own guard to do this thing. 
+Money! [Sententiously.] There's nothing in the world so demoralizing as money. Find that man, bring him here to me, or your death Will be the least of your problems: I'll string you up Alive, and there will be certain ways to make you Discover your employer before you die; And the process may teach you e lesson you seem to have missed 260 The dearest profit is sometimes all too dear: 
+That depends on the source. Do you understand me? 
+A fortune won is often misfortune. 
+SENTRY: King, may I speak? 
+CREON: Your very voice distresses me. 
+SENTRY: Are you sure that it is my voice, and not your conscience? 265 
+CREON: By God, he wants to analyze me now! 
+SENTRY: It is not what I say, but what has been done, that hurts you. 
+CREON: You talk too much. 
+SENTRY: Maybe; but I've done nothing. 
+CREON: Sold your soul for some silver: that's all you've done. 
+SENTRY: How dreadful it is when the right judge judges wrong! 270 
+CREON: Your figures of speech May entertain you now; but unless you bring me the man, You will get little profit from them in the end.
+ [Enter CREON into the Palace.] 
+SENTRY: "Bring me the man" --! I'd like nothing better than bringing him the man! 275 But bring him or not, you have seen the last of me here. 
+At any rate, I am safe!  [Exit SENTRY.]  
+ODE I  
+CHORUS:  [Strophe 1]  
+
+Numberless are the world's wonders, but none More wonderful than man; the stormgray sea 
+Yields to his prows, the huge crests bear him high; 
+Earth, holy and inexhaustible, is graven With shining furrows where his plows have gone Year after year, the timeless labor of stallions. 
+The lightboned birds and beasts that cling to cover, The lithe fish lighting their reaches of dim water, All are taken, tamed in the net of his mind; The lion on the hill, the wild horse windy-maned, Resign to him; and his blunt yoke has broken The sultry shoulders of the mountain bull.  [Antistrope 1] 285  
+Words also, ant thought as rapid as air, He fashions to his good use; statecraft is his, And his the skill that deflect the arrows of snow, The spears of winter rain: from every wind He has made himself secure--from all but one: In the late wind of death he cannot stand.  [Strophe 2]  290  
+O clear intelligence, force beyond all measure! O fate of man, working both good and evil! When the laws are kept, how proudly his city stands! When the laws are broken, what of his city then? Never may the anarchic man find rest at my hearth, Never be it said that my thoughts are his thoughts.  [Antistrophe 2] 295 330  
+SCENE II  
+[Re-enter SENTRY  leading ANTIGONE.]  
+CHORAGOS: What does this mean? Surely this captive woman Is the Princess, Antigone. Why should she be taken?  
+SENTRY: Here is the one who did it! We caught her In the very act of burying him. --Where is Creon?  
+CHORAGOS: Just coming from the house.  
+
+[Enter CREON, C.] 
+CREON:  What has happened? Why have you come back so soon? 
+SENTRY: O King, A man should never be too sure of anything: I would have sworn That you'd not see me here again: your anger Frightened me so, and the things you threatened me with; But how could I tell then That I'd be able to solve the case so soon?  310  
+No dice-throwing this time: I was only too glad to come!  
+Here is this woman. She is the guilty one: We found her trying to bury him. Take her, then; question her; judge her as you will. I am through with the whole thing now, and glad of it.  315  
+CREON: But this is Antigone! Why have you brought her here?  
+SENTRY: She was burying him, I tell you!  
+CREON:  [Severely.] Is this the truth?  
+SENTRY: I saw her with my own eyes. Can I say more?  320  
+CREON: The details: come, tell me quickly!  
+SENTRY: It was like this: After those terrible threats of yours King. We went back and brushed the dust away from the body. The flesh was soft by now, and stinking, So we sat on a hill to windward and kept guard. No napping happened until the white round sun Whirled in the center of the round sky over us: Then, suddenly, A storm of dust roared up from the earth, and the sky Went out, the plain vanished with all its trees In the stinging dark. We closed our eyes and endured it. The whirlwind lasted a long time, but it passed; And then we looked, and there was Antigone! I have seen A mother bird come back to a stripped nest, heard  325 330 335  
+
+Her crying bitterly a broken note or two For the young ones stolen. Just so, when this girl Found the bare corpse, and all her love's work wasted, She wept, and cried on heaven to damn the hands 340 That had done this thing 
+And then she brought more dust And sprinkled wine three times for her brother's ghost. We ran and took her at once. She was not afraid, Not even when we charged her with what she had done. She denied nothing. 
+And this was a comfort to me, 345 And some uneasiness: for it is a good thing To escape from death, but it is no great pleasure To bring death to a friend. 
+ Yet I always say There is nothing so comfortable as your own safe skin! 
+CREON: {Slowly, dangerously.] And you, Antigone, 350 You with your head hanging--do you confess this thing? 
+ANTIGONE: I do. I deny nothing. 
+CREON: [To SENTRY:] You may go. 
+{Exit SENTRY. To ANTIGONE:] Tell me, tell me briefly: Had you heard my proclamation touching this matter? 
+ANTIGONE: It was public. Could I help hearing it? 355 
+CREON: And yet you dared defy the law. 
+ANTIGONE: 
+I dared. It was not God's proclamation. That final Justice That rules the world below makes no such laws. 
+Your edict, King, was strong, But all your strength is weakness itself against 360 The immortal unrecorded laws of God. They are not merely now: they were, and shall be, Operative for ever, beyond man utterly. 
+I knew I must die, even without your decree: I am only mortal. And if I must die 365 Now, before it is my time to die, Surely this is no hardship: can anyone Living, as I live, with evil all about me, Think Death less than a friend? This death of mine Is of no importance; but if I had left my brother 370 Lying in death unburied, I should have suffered. Now I do not. 
+You smile at me. Ah Creon, Think me a fool, if you like; but it may well be That a fool convicts me of folly. 
+CHORAGOS: Like father, like daughter: both headstrong, deaf to reason! 375 She has never learned to yield. 
+She has much to learn. The inflexible heart breaks first, the toughest iron Cracks first, and the wildest horses bend their necks At the pull of the smallest curb. 
+Pride? In a slave? This girl is guilty of a double insolence, 380 Breaking the given laws and boasting of it. Who is the man here, She or I, if this crime goes unpunished? Sister's child, or more than sister's child, Or closer yet in blood--she and her sister 385 Win bitter death for this! 
+[To servants:] 
+Go, some of you, Arrest Ismene. I accuse her equally. Bring her: you will find her sniffling in the house there. 
+Her mind's a traitor: crimes kept in the dark 390 Cry for light, and the guardian brain shudders: But now much worse than this Is brazen boasting of barefaced anarchy! 
+ANTIGONE: Creon, what more do you want than my death? 
+CREON:  Nothing. That gives me everything. 
+ANTIGONE: Then I beg you: kill me. 
+This talking is a great weariness: your words Are distasteful to me, and I am sure that mine Seem so to you. And yet they should not seem so: I should have praise and honor for what I have done. All these men here would praise me Were their lips not frozen shut with fear of you. Ah the good fortune of kings, Licensed to say and do whatever they please!  [Bitterly.]  395 400 
+CREON: You are alone here in that opinion.  
+ANTIGONE: No, they are with me. But they keep their tongues in leash.  
+CREON: Maybe. But you are guilty, and they are not.  405  
+ANTIGONE: There is no guilt in reverence for the dead.  
+CREON: But Eteocles--was he not your brother too?  
+ANTIGONE: My brother too.  
+CREON:  And you insult his memory?  
+ANTIGONE: The dead man would not say that I insult it.  [Softly.]  
+CREON: He would: for you honor a traitor as much as him.  410  
+ANTIGONE: His own brother, traitor or not, and equal in blood.  
+CREON: He made war on his country. Eteocles defended it.  
+ANTIGONE: Nevertheless, there are honors due all the dead.  
+CREON:  
+
+But not the same for the wicked as for the just.  
+ANTIGONE: Ah Creon, Creon, Which of us can say what the gods hold wicked?  415  
+CREON: An enemy is an enemy, even dead.  
+ANTIGONE: It is may nature to join in love, not hate.  
+CREON: {Finally losing patience.] Go join them, then; if you must have your love, Find it in hell!  420  
+CHORAGOS: But see, Ismene comes: [Enter ISMENE, guarded.] Those tears are sisterly, the cloud That shadows her eyes rains down gentle sorrow.  
+CREON: You too, Ismene, Snake in my ordered house, sucking my blood Stealthily--and all the time I never knew That these two sisters were aiming at my throne!Do you confess your share in this crime, or deny it? Answer me.   Ismene,  425  
+ISMENE: Yes, if she will let me say so. I am guilty.  430  
+ANTIGONE: [Coldly.] No, Ismene. You have no right to say so. You would not help me, and I will not have you help me.  
+ISMENE: But now I know what you meant; and I am here To join you, to take my share of punishment.  
+ANTIGONE: The dead man and the gods who rule the dead Know whose act this was. Words are not friends.  435  
+
+ISMENE: Do you refuse me, Antigone? I want to die with you: I too have a duty that I must discharge to the dead.  
+ANTIGONE: You shall not lessen my death by sharing it.  
+ISMENE: What do I care for life when you are dead?  440  
+ANTIGONE: Ask Creon. You're always hanging on his opinions.  
+ISMENE: You are laughing at me. Why, Antigone?  
+ANTIGONE: It's a joyless laughter, Ismene.  
+ISMENE:  But can I do nothing?  
+ANTIGONE: Yes. Save yourself. I shall not envy you. There are those who will praise you; I shall have honor, too.  445  
+ISMENE: But we are equally guilty!  
+ANTIGONE: No more, Ismene. You are alive, but I belong to Death.  
+CREON: Gentlemen, I beg you to observe these girls: One has just now lost her mind; the other, It seem, has never had a mind at all.  {To the CHORUS:]  450  
+ISMENE: Grief teaches the steadiest minds to waver, King.  
+CREON: Yours certainly did, when you assumed guild with the guilty!  
+ISMENE: But how could I go on living without her?  
+
+CREON: You are. She is already dead. 
+ISMENE: But your own son's bride! 
+CREON: There are places enough for him to push his plow. 455 I want no wicked women for my sons! 
+ISMENE: O dearest Haimon, how your father wrong you! 
+CREON: I've had enough of your childish talk of marriage! 
+CHORAGOS: Do you really intend to steal this girl from your son? 
+CREON: No; Death will do that for me. 
+CHORAGOS:  Then she must die? 460 
+CREON: [Ironically.] You dazzle me. --But enough of this talk! 
+[To GUARDS:] You, there, take them away and guard them well: For they are but women, and even brave men run When they see Death coming.
+ [Exeunt ISMENE, ANTIGONE, and GUARDS.] 
+ODE II 
+CHORUS: [Strophe 1] Fortunate is the man who has never tasted God's vengeance! 465 Where once the anger of heaven has struck, that house is shaken For ever: damnation rises behind each child Like a wave cresting out of the black northeast, When the long darkness under sea roars up 
+And bursts drumming death upon the windwhipped sand. 
+[Antistrophe 1] I have seen this gathering sorrow from time long past Loom upon Oedipus' children: generation from generation Takes the compulsive rage of the enemy god. So lately this last flower of Oedipus' line Drank the sunlight! but now a passionate word 475 And a handful of dust have closed up all its beauty 
+What mortal arrogance [Strophe 2] 
+Transcends the wrath of Zeus? Sleep cannot lull him, nor the effortless long months Of the timeless gods: but he is young for ever, 480 And his house is the shining day of high Olympos. 
+All that is and shall be, And all the past, is his. No pride on earth is free of the curse of heaven. 
+The straying dreams of men [Antistrophe 2] 485 
+May bring them ghosts of joy: But as they drowse, the waking embers burn them; Or they walk with fixed eyes, as blind men walk. But the ancient wisdom speaks for our own time: 
+Fate works most for woe 490 With Folly's fairest show. Man's little pleasure is the spring of sorrow. 
+SCENE III 
+CHORAGOS: But here is Haimon, King, the last of all your sons. Is it grief for Antigone, that brings him here, And bitterness at being robbed of his bride? 495 
+[Enter HAIMON.] 
+CREON: We shall soon see, and no need of diviners. 
+ --Son, You have heard my final judgment on that girl: Have you come here hating me, or have you come With deference and with love, whatever I do? 
+HAIMON: I am your son, father. You are my guide. 500 You make things clear for me, and I obey you. No marriage means more to me than your continuing wisdom. 
+CREON: 
+Good. That is the way to behave: subordinate Everything else, my son, to your father's will This is what a man prays for, that he may get Sons attentive and dutiful in his house, Each one hating his father's enemies, Honoring his father's friends. But if his sons Fail him, if they turn out unprofitably, What has he fathered but trouble for himself And amusement for the malicious? 
+So you are right Not to lose your head over this woman. Your pleasure with her would soon, grow cold, Haimon, And then you'd have a hellcat in bed and elsewhere. Let her find her husband in Hell! Of all the people in this city, only she Has had contempt for my law and broken it. 
+Do you want me to show myself weak before the people? Or to break my sworn word? No, and I will not. The woman dies. I suppose she'll plead "family ties." Well, let her. If I permit my own family to rebel, How shall I earn the world's obedience? Show me the man who keeps his house in hand, He's fit for public authority.
+ I'll have no dealings With law-breakers, critics of the government: Whoever is chosen to govern should be obeyed-- Must be obeyed, in all things, great and small, Just and unjust! O Haimon, The man who knows how to obey, and that man only, Knows how to give commands when the time comes. You can depend on him, no matter how fast The spears come: he's a good soldier, he'll stick it out. 
+Anarchy, anarchy! Show me a greater evil! This is why cities tumble and the great houses rain down, This is what scatters armies! 
+No, no: good lives are made so by discipline. We keep the laws then, and the lawmakers, And no woman shall seduce us. If we must lose, Let's lose to a man, at least! Is a woman stronger than we? 
+CHORAGOS: Unless time has rusted my wits, What you say, King, is said with point and dignity. 
+HAIMON: [Boyishly earnest.] 
+Father: 
+Reason is God's crowing gift to man, and you are right 
+To warn me against losing mine. I cannot say-- 
+I hope that I shall never want to say! --that you 
+Have reasoned badly. Yet there are other men 
+Who can reason, too; and their opinions might be helpful. 
+You are not in a position to know everything 
+That people say or do, or what they feel: 
+Your temper terrifies them--everyone 
+Will tell you only what you like to hear. 
+But I, at any rate, can listen; and I have heard them 
+Muttering and whispering in the dark abut this girl. 
+They say no woman has ever, so unreasonably, 
+Died so shameful a death for a generous act: 
+"She covered her brother's body. Is this indecent? 
+She kept him from dogs and vultures. Is this a crime? 
+Death? --She should have all the honor that we can give her!" 
+This is the way they talk out there in the city. 
+You must believe me: 
+Nothing is closer to me than your happiness. 
+What could be closer? Must not any son 
+Value his father's fortune as his father does his? 
+I beg you, do not be unchangeable: 
+Do not believe that you alone can be right. 
+The man who thinks that, 
+The man who maintains that only he has the power 
+To reason correctly, the gift to speak, to soul-- 
+A man like that, when you know him, turns out empty. 
+It is not reason never to yield to reason! 
+In flood time you can see how some trees bend, 
+And because they bend, even their twigs are safe, 
+While stubborn trees are torn up, roots and all. 
+And the same thing happens in sailing: 
+Make your sheet fast, never slacken,--and over you go, 
+Head over heels and under: and there's your voyage. 
+Forget you are angry! Let yourself be moved! 
+I know I am young; but please let me say this: 
+The ideal condition 
+Would be, I admit, that men should be right by instinct; 
+But since we are all too likely to go astray, 
+The reasonable thing is to learn from those who can teach. 
+CHORAGOS: You will do well to listen to him, King, If what he says is sensible. And you, Haimon, Must listen to your father. --Both speak well.  585  
+CREON: You consider it right for a man of my years and experience To go to school to a boy?  
+HAIMON: It is not right If I am wrong. But if I am young, and right, What does my age matter?  
+CREON: You think it right to stand up for an anarchist?  590  
+HAIMON: Not at all. I pay no respect to criminals.  
+CREON: Then she is not a criminal?  
+HAIMON: The City proposes to teach me how to rule?  
+CREON: And the City proposes to teach me how to rule?  
+HAIMON: Ah. Who is it that's talking like a boy now?  595  
+CREON: My voice is the one voice giving orders in this City!  
+HAIMON: It is no City if it takes orders from one voice.  
+CREON: The State is the King!  
+HAIMON:  Yes, if the State is a desert.  [Pause.]  
+CREON: This boy, it seems, has sold out to w woman.  
+
+HAIMON: If you are a woman: my concern is only for you.  600  
+CREON: So? Your "concern"! In a public brawl with your father!  
+HAIMON: How about you, in a public brawl with justice?  
+CREON: With justice, when all that I do is within my rights?  
+HAIMON: You have no right to trample on God's right.  
+CREON: [Completely out of control.] Fool, adolescent fool! Taken in by a woman!  605  
+HAIMON: You'll never see me taken in by anything vile.  
+CREON: Every word you say is for her!  
+HAIMON: [Quietly, darkly.]  And for you. And for me. And for the gods under the earth.  
+CREON: You'll never marry her while she lives.  
+HAIMON: Then she must die. --But her death will cause another.  610  
+CREON: Another? Have you lost your senses? Is this an open threat?  
+HAIMON: There is no threat in speaking to emptiness.  
+CREON: I swear you'll regret this superior tone of yours! You are the empty one!  
+HAIMON:  If you were not my father,  615  
+
+I'd say you were perverse.  
+CREON: You girlstruck fool, don't play at words with me!  
+HAIMON: I am sorry. You prefer silence.  
+CREON:  Now, by God--! I swear, by all the gods in heaven above us, You'll watch it, I swear you shall [To the SERVANTS:] Bring her out! Bring the woman out! Let her die before his eyes! Here, this instant, with her bridegroom beside her!  620  
+HAIMON: Not here, no; she will not die here, King. And you will never see my face again. Go on raving as long as you've a friend to endure you. [Exit HAIMON.] CHORAGOS: Gone, gone. Creon, a young man in a rage is dangerous!  625  
+CREON: Let him do, or dream to do, more than a man can. He shall not save these girls from death.  
+CHORAGOS: You have sentenced them both?  These girls?  
+CREON:  No, you are right I will not kill the one whose hands are clean.  630  
+CHORAGOS: But Antigone?  
+CREON: I will carry her far away Out there in the wilderness, and lock her Living in a vault of stone. She shall have food, As the custom is, to absolve the State of her death. And there let her pray to the gods of hell:  [Somberly.]  635  
+
+They are her only gods: Perhaps they will show her an escape from death, Or she may learn, 
+though late, That piety shown the dead is pity in vain. 640 [Exit CREON.] 
+ODE III 
+CHORUS: Love, unconquerable [Strophe] Waster of rich men, keeper Of warm lights and all-night vigil In the soft face of a girl: Sea-wanderer, forest-visitor! Even the pure Immortals cannot escape you, And mortal man, in his one day's dusk, Trembles before your glory. 
+Surely you swerve upon ruin [Antistrope] The just man's consenting heart, 650 As here you have made bright anger Strike between father and son-- And none has conquered but Love! A girl's glance working the will of heaven: Pleasure to her alone who mock us, 655 Merciless Aphrodite.4 
+SCENE IV 
+CHORAGOS: [As ANTIGONE enter guarded.] But I can no longer stand in awe of this, Nor, seeing what I see, keep back my tears. Here is Antigone, passing to that chamber Where all find sleep at last 660 
+ANTIGONE: Look upon me, friends, and pity me [Strophe 1] Turning back at the night's edge to say Good-by to the sun that shines for me no longer; Now sleepy Death Summons me down to Acheron,5 that cold shore: 665 There is no bridesong there, nor any music. 
+4 Goddess of Love. [Editors' note] 5 A river of the underworld, which was ruled by Hades. [Editors' note] 
+CHORUS:  
+Yet not unpraised, not without a kind of honor,  
+You walk at last into the underworld;  
+Untouched by sickness, broken by no sword.  
+What woman has ever found your way to death?  
+ANTIGONE: 
+How often I have heard the store of Niobe,6  [Antistrophe 1]  
+Tantalos' wretched daughter, how the stone  
+Clung fast about her, ivy-close: and they say  
+The rain falls endlessly  
+And rifting soft snow; her tears are never done.  
+I feel the loneliness of her death in mine.  
+CHORUS:  
+But she was born of heaven, and you  
+Are woman, woman-born. If her death is yours,  
+A mortal woman's, is this not for you  
+Glory in our world and in the world beyond?  
+ANTIGONE:  
+You laugh at me. Ah, friends, friends,  [Strophe2]  
+Can you not wait until I am dead? O Thebes,  
+O men many-charioted, in love with Fortune,  
+Dear spring of Dirce, sacred Theban grove,  
+Be witnesses for me, denied all pity,  
+Unjustly judge! and think a word of love  
+For her whose path turns  
+Under dark earth, where there are no more tears.  
+CHORUS:  
+
+You have passed beyond human daring and come at last Into a place of stone where Justice sits I cannot tell What shape of your father's guilt appears in this. 
+ANTIGONE: 
+[Antistrophe 2] You have touched it at last: that bridal bed Unspeakable, horror of son an mother mingling: Their crime, infection of all our family! O Oedipus, father and brother! Your marriage strikes from the grave to murder mine. I have been a stranger here in my own land: 
+6 Niobe boasted of her numerous children, provoking Leto, the mother of Apollo, to destroy them. Niobe wept profusely, and finally was turned into a stone on Mount Sipylus, whose streams are her tears. [Editors' note] 
+All my life The blasphemy of my birth has followed me.  700  
+CHORUS:  
+Reverence is a virtue, but strength Lives in established law: that must prevail. You have made your choice, Your death is the doing of your conscious hand.  
+ANTIGONE:  
+Then let me go, since all your words are bitter, And the very light of the sun is cold to me. Lead me to my vigil, where I must have Neither love nor lamentation; no song, but silence. [Epode] 705  
+
+ [CREON interrupts impatiently.] 
+CREON: If dirges and planned lamentations could put of death, Men would be singing for ever.
+ [To the SERVANTS:] 
+Take her, go! 710 You know your orders: take her to the vault And leave her alone there. And if she lives or dies, That's her affair, not ours: our hands are clean. 
+ANTIGONE: O tomb, vaulted bride-bed in eternal rock, Soon I shall be with my own again 715 Where Persephone 7 welcome the thin ghost underground: And I shall see my father again, and you, mother, And dearest Polyneices-- 
+ dearest indeed To me, since it was my hand That washed him clean and poured the ritual wine: 720 And my reward is death before my time! 
+And yet, as men's hearts know, I have done no wrong, I have not sinned before God. Or if I have, I shall know the truth in death. But if the guilt Lies upon Creon who judged me, then, I pray, 725 May his punishment equal my own. 
+CHORAGOS:  O passionate heart, Unyielding, tormented still by the same winds! 
+7 Queen of the underworld. [Editors' note] 
+CREON: Her guards shall have good cause to regret their delaying. 
+ANTIGONE: Ah! That voice you no reason to think voice of death! 
+CREON: I can give you no reason to think you are mistaken. 730 
+ANTIGONE: Thebes, and you my fathers' gods, And rulers of Thebes, you see me now, the last Unhappy daughter of a line of kings, Your kings, led away to death. You will remember What things I suffer, and at what men's hands, 735 Because I would not transgress the laws of heaven. 
+[To the GUARDS, simply:] Come: let us wait no longer. [Exit ANTIGONE, L., guarded.] 
+ODE IV 
+CHORUS: All Danae's beauty was locked away {Strophe 1] In a brazen cell where the sunlight could not come: A small room, still as any grave, enclosed her. 740 Yet she was a princess too, And Zeus in a rain of gold poured love upon her. O child, child, No power in wealth or war Or tough sea-blackened ships 745 Can prevail against untiring Destiny! 
+{Antistrophe 1] And Dryas' son 8 also, that furious king, Bore the god's prisoning anger for his pride: Sealed up by Dionysos in deaf stone, His madness died among echoes. 750 So at the last he learned what dreadful power His tongue had mocked: For he had profaned the revels, And fired the wrath of the nine Implacable Sisters9 that love the sound of the flute. 755 
+8 Drays' son: Lycurgus, King of Thrace. [Editors' note] 9 The Muses. [Editors' note] 
+[Strophe 2]  
+And old men tell a half-remembered tale  
+Of horror done where a dark ledge splits the sea  
+And a double surf beats on the gray shores: How a king's new woman, 10 sick  
+With hatred for the queen he had imprisoned,  760  
+Ripped out his two son's eyes with her bloody hands While grinning Ares 11 watched the shuttle plunge  
+Four times: four blind wounds crying for revenge,  
+[Antistrophe 2]  
+Crying, tears and blood mingled, --Piteously born,  
+Those sons whose mother was of heavenly birth!  765  
+Her father was the god of the North Wind  
+And she was cradled by gales,  
+She raced with young colts on the glittering hills  
+And walked untrammeled in the open light:  
+But in her marriage deathless Fate found means  770  
+To build a tomb like yours for all her joy.  
+SCENE V  
+
+[Enter blind TEIRESIAS, led by a boy. The opening speeches of TEIRESIAS should be in singsong contrast to the realistic lines of CREON.] 
+TEIRESIAS: This is the way the blind man comes, Princes, Princes, Lock-step, two heads lit by the eyes of one. 
+CREON: What new thing have you tell us, old Teiresias? 
+TEIRESIAS: I have much to tell you: listen to the prophet, Creon. 775 
+CREON: I admit my debt to you. But what have you to say? 
+TEIRESIAS: Listen, Creon: I was sitting in my chair of augury, at the place Where the birds gather about me. They were all a-chatter, As is their habit, when suddenly I heard A strange note in their jangling, a scream, a 
+785 
+10 Eidothea, second wife of King Phineus, blinded her stepsons. (Their mother, Cleopatra, had been imprisoned in a cave.).Phineus was the son of a king, and Cleopatra, his first wife, was the daughter of Boreas, the North Wind; but this illustrious ancestry could not protect his sons from violence and darkness. [Editors' note] 11 God of war. [Editors' note] 
+Whirring fury; I knew that they were fighting, Tearing each other, dying In a whirlwind of wings clashing. And I was afraid. I began the rites of burnt-offering at the altar, But Hephaistos 12 failed me: instead of bright flame, There was only the sputtering slime of the fat thigh-flesh Melting: the entrails dissolved in gray smoke, The bare bone burst from the welter. And no blaze! 
+This was a sign from heaven. My boy described it, Seeing for me as I see for others. 
+I tell you, Creon, you yourself have brought This new calamity upon us. Our hearths and altars Are stained with the corruption of dogs and carrion birds That glut themselves on the corpse of Oedipus' son. The gods are deaf when we pray to them, their fire Recoils from our offering, their birds of omen Have no cry of comfort, for they are gorged With the thick blood of the dead.
+ O my son, These are no trifles! Think: all men make mistakes, But a good man yields when he knows his course is wrong, And repairs the evil. The only crime is pride. 
+Give in to the dead man, then: do not fight with a corpse-- What glory is it to kill a man who is dead? Think, I beg you: It is for your own good that I speak as I do. You should be able to yield for your own good. 
+CREON: It seems that prophets have made me their especial province. All my life long I have been a kind of butt for dull arrows Of doddering fortune-tellers! 
+No, Teiresias: If your birds--if the great eagles of God himself Should carry him stinking bit by bit to heaven, I would not yield. I am not afraid of pollution: No man can defile the gods. 
+Do what you will, Go into business, make money, speculate In India gold or that synthetic gold from Sardis, Get rich otherwise than by my consent to bury him. Teiresias, it is a sorry thing when a wise man 
+12 God of fire. [Editors' note] 
+Sells his wisdom, lets out his words for hire!  
+TEIRESIAS: Ah Creon! Is there no man left in the world--  825  
+CREON: To do what? --Come, let's have the aphorism!  
+TEIRESIAS: No man who knows that wisdom outweighs any wealth?  
+CREON: As surely as bribes are baser than any baseness.  
+TEIRESIAS: You are sick, Creon! You are deathly sick!  
+CREON: As you say: it is not my place to challenge a prophet.  830  
+TEIRESIAS: Yet you have said my prophecy is for sale.  
+CREON: The generation of prophets has always loved gold.  
+TEIRESIAS: The generation of kings has always loved brass.  
+CREON: You forget yourself! You are speaking to your King.  
+TEIRESIAS: I know it. You are a king because of me.  835  
+CREON: You have a certain skill; but you have sold out.  
+TEIRESIAS: King, you will drive me to words that--  
+CREON:  Say them, say them! Only remember: I will not pay you for them.  
+TEIRESIAS: No, you will find them too costly.  
+
+ No doubt. Speak: Whatever you say, you will not change my will. 
+TEIRESIAS: Then take this, and take it to heart! The time is not far off when you shall pay back Corpse for corpse, flesh of your own flesh. You have thrust the child of this world into living night, You have kept from the gods below the child that is theirs: The one on a grave before her death, the other, Dead, denied the grave. This is your crime: And the Furies and the dark gods of Hell Are swift with terrible punishment for you. 
+Do you want to buy me now, Creon? 
+ Not many days, And your house will be full of men and women weeping, And curses will be hurled at you from far Cities grieving for sons unburied, left to rot Before the walls of Thebes. 
+These are my arrows, Creon: they are all for you. 
+[To BOY:] But come, child: lead me home. Let him waste his fine anger upon younger men. Maybe he will learn at last To control a wiser tongue in a better head.
+ [Exit TEIRESIAS.] 
+CHORAGOS: The old man has gone, King, but his words Remain to plague us. I am old, too, But I cannot remember that he was ever false. 
+CREON: That is true… .  It troubles me. Oh it is hard to give in! but it is worse To risk everything for stubborn pride. 
+CHORAGOS: Creon: take my advice. 
+CREON: What shall I do? 
+CHORAGOS: Go quickly: free Antigone from her vault And build a tomb for the body of Polyneices. 
+CREON: You would have me do this? 
+CHORAGOS: 
+Creon, yes! And it must be done at once: God moves 870 Swiftly to cancel the folly of stubborn men. 
+CREON: It is hard to deny the heart! But i Will do it: I will not fight with destiny. 
+CHORAGOS: You must go yourself, you cannot leave it to others. 
+CREON: I will go. 
+--Bring axes, servants: 875 Come with me to the tomb. I buried her, i Will set her free. 
+Oh quickly! My mind misgives-- The laws of the gods are mighty, and a man must serve them 
+To the last day of his life!  [Exit CREON.]  880  
+PAEN 13  
+CHORAGOS: God of many names  [Strophe 1]  
+CHORUS:  
+
+ O Iacchos son of Kadmeian Semele O born of the Thunder! Guardian of the West Regent of Eleusis' plain O Prince of maenad Thebes 
+13 A hymn here dedicated to Iacchos (also called Dionysos). His father was Zeus, his mother was Semele, daughter of Kadmos. Iacchos' worshippers were the Maenads, whose cry was "Evohe evohe.' [Editors' note] 
+and the Dragon Field by rippling Ismenos:14 
+CHORAGOS: God of many names [Antistrophe 1] 
+CHORUS: 
+the flame of torches 
+flares on our hills 
+the nymphs of Iacchos 
+dance at the spring of Castalia: 15 
+from the vine-close mountain 
+come ah come in ivy: 
+Evohe evohe! Sings through the streets of Thebes 890 
+CHORAGOS: God of many names [Strophe 2] 
+CHORUS: Iacchos of Thebes heavenly Child of Semele bride of the Thunderer! The shadow of plague is upon us:  come with clement feet oh come from Parnasos down the long slopes across the lamenting water 895 
+CHORAGOS: 
+[Antistrophe 2] 
+Io Fire! Chorister of the throbbing stars! 
+O purest among the voices of the night! 
+Thou son of God, blaze for us! 
+CHORUS: 
+Come with choric rapture of circling Maenads 
+Who cry Io Iacche! 900 
+God of many names! 
+EXODOS 
+[Enter MESSENGER, L.] 
+14 A river east of Thebes. From a dragon's teeth (sown near the river) there sprang men who became the ancestors of the Theban nobility. [Editors' note] 15  A spring on Mountain Parnasos. [Editors' note] 
+MESSENGER: Men of the line of Kadmos 16you who live Near Amphion's citadel: 
+I cannot say Of any condition of human life "This is fixed, This is clearly good, or bad." Fate raises up, And Fate casts down the happy and unhappy alike: 
+905 No man can foretell his Fate. 
+Take the case of Creon: Creon was happy once, as I count happiness: Victorious in battle, sole governor of the land, Fortunate father of children nobly born. And now it has all gone from him! Who can say 910 That a man is still alive when his life's joy fails? He is a walking dead man. Grant him rich, Let him live like a king in his great house: If his pleasure is gone, is would not give So much as the shadow of smoke for all he owns. 915 
+CHORAGOS: Your words hint at sorrow: what is your news for us? 
+MESSENGER: They are dead. The living are guilt of their death. 
+CHORAGOS: Who is guilty? Who is dead? Speak! 
+MESSENGER: 
+Haimon. Haimon is dead; and the land that killed him Is his own hand. 
+CHORAGOS: His father's? or his own? 920 
+MESSENGER: His own, driven mad by the murder his father had done. 
+CHORAGOS: Teiresias, Teiresias, how clearly you saw it all! 
+MESSENGER: This is my news: you must draw what conclusions you can from it. 
+16 Kadmos, who sowed the dragon's teeth, was the founder of Thebes; Amphion played so sweetly on his lyre that he charmed stones to form a wall around. [Editors' note] 
+CHORAGOS: But look: Eurydice, our Queen: Has she overheard us? 925
+ [Enter UERYDICE from the Palace, C.] 
+EURIDICE: I have heard something, friends: As I was unlocking the gate of Pallas' 17 shrine, For I needed her help today, I heard a voice Telling of some new sorrow. And I fainted There at the temple with all my maidens about me. 930 But speak again: whatever it is, I can bear it: Grief and I are no strangers. 
+MESSENGER: 
+Dearest Lady, I will tell you plainly all that I have seen. I shall not try to comfort you: what is the use, Since comfort could lie only in what is not true? 935 The truth is always best. 
+I went with Creon To the outer plain where Polyneices was lying, No friend to pity him, his body shredded by dogs. We made our prayers in that place to Hecate And Pluto, 18 that they would be merciful. And we bathed 940 The corpse with holy water, and we brought Fresh-broken branches to burn what was left of it, And upon the urn we heaped up a towering barrow Of the earth of his own land. 
+When we are done, we ran To the vault where Antigone lay on her couch of stone. 945 One of the servants had gone ahead, And while he was yet far off he heard a voice Grieving within the chamber, and he came back And told Creon. And as the King went closer, 950 The air was full of wailing, the words lost, And he begged us to make all haste. "Am I a prophet?" He said, weeping, "And must I walk this road, The saddest of all that I have gone before? My son's voice calls me on. Oh quickly, quickly! Look through the crevice there, and tell me 955 If it is Haimon, or some deception of the gods!" 
+We obeyed; and in the cavern's farthest corner We saw her lying: 
+17 Pallas Athene, goddess of wisdom. [Editors' note] 18 Hecate and Pluto (also known as Hades) were deities of the underworld. [Editors' note] 
+She had made a noose of her fine linen veil  
+And hanged herself. Haimon lay beside hers, His arms about her waist, lamenting her, His love lost under ground, crying out That his father has stolen her away from him.  960  
+When Creon saw him the tears rushed to his eyes And he called to him: "What have you done, child? Speak to me. What are you thinking that makes your eyes so stranger? O my son, my son, I come to you on my knees!" But Haimon spat in his face. He said not a word, Staring-- And suddenly drew his sword And lunged. Creon shrank back, the blade missed; and the boy, Desperate against himself , drove it half its length Into his own side, and fell. And as he died He gathered Antigone close in his arms again. Choking, his blood bright red on her white cheek. And now he lies dead with the dead, and she is his At last, his bride in the houses of the dead. [Exit EURDICE into the Palace.]  965 970 975  
+CHORAGOS:  
+She has left us without a word. What can this mean?  
+MESSENGER:  
+It troubles me, too; yet she knows what is best, Her grief is too great for public lamentation, And doubtless she has gone to her chamber to weep For dead son, leading her maidens in his dirge.  980  
+CHORAGOS:  
+
+It may be so: but I fear this deep silence. 
+MESSENGER: [Pause.] I will see what she is doing. I will go in. [Exit MESSENGER into the Palace.] 
+[Enter CREON with attendants, bearing HAIMON'S body.] 
+CHORAGOS: But here is the King himself: oh look at him, Bearing his own damnation in his arms. 
+985 
+CREON: Nothing you say can touch me any more. 
+My own blind heart has brought me From darkness to final darkness. Here you see The father murdering, the murdered son-- And all my civic wisdom! 
+Haimon my son, so young, so young to die, I was the fool, not you; and you died for me. 
+CHORAGOS: That is the truth; but you were late in learning it. 
+CREON: This truth is hard to bear. Surely a god Has crushed me beneath the hugest weight of heaven, And driven me headlong a barbaric way To trample out the thing I held most dear. 
+The pains that men will take to come to pain! [Enter MESSENGER from the Palace.] 
+MESSENGER: The burden you carry in your hands is heavy, But it is not all: you will find more in your house. 
+CREON: What burden worse than this shall I find there? 
+MESSENGER: The Queen is dead. 
+CREON: O port of death, deaf world, Is there no pity for me? And you, Angel of evil, I was dead, and your words are death again. Is it true, boy? Can it be true? Is my wife dead? Has death bred death? 
+MESSENGER: You can see for yourself. [The doors are opened, and the body of EURDICE is disclosed within.] 
+CREON: Oh pity! All true, all true, and more than I can bear! O my wife, my son! 
+MESSENGER: She stood before the altar, and her heart Welcome the knife her own hand guided. And a great cry burst from her lips for Megareus 19 dead, And for Haimon dead, her sons; and her last breath Was a curse for their father, the murdered of her sons. And she fell, and the dark flowed in through her closing eyes. 
+CREON: O God, I am sick with fear. Are there no swords here? Has no one a blow for me? 
+MESSENGER: Her curse is upon you for the deaths of both. 
+CREON: It is right that it should be. I alone am guilty. I know it, and I say it. Lead me in, Quickly, friends. I have neither life nor substance. Lead me in. 
+CHORAGOS: You are right, if there can be right in so much wrong. The briefest way is best in a world of sorrow. 
+CREON: Let it come, Let death come quickly, and be kind to me. I would not ever see the sun again. 
+CHORAGOS: All that will come when it will; but we, meanwhile, Have much to do. Leave the future to itself. 
+CREON: All my heart was in that prayer! 
+CHORAGOS: Then do not pray any more: the sky is deal 
+CREON: Lead me away. I have been rash and foolish. I have killed my son and my wife. I look for comfort; my comfort lies here dead. Whatever my hands have touched has come to nothing. Fate has brought all my pride to a thought of dust. 
+19 Megareus, brothe of Haimon, had died in the assault on Thebes. [Editors' note] 
+[As CREON is being led into the house, the CHORAGOS advances and speaks directly to the audience.] 
+CHORAGOS: There is no happiness where there is no wisdom; No wisdom but in submission to the gods. 1040 Big words are always punished, And proud men in old age learn to be wise. 
+
